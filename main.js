@@ -1,1 +1,1 @@
-alert("Instal gayVirus")
+//alert("Instal gayVirus")
