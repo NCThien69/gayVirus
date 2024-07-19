@@ -1,0 +1,42 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    font-family: sans-serif;
+    background-color: rgb(199, 252, 252);
+}
+
+.text{
+    color: rgb(225, 18, 18);
+    align-items: center;
+    justify-content: center;
+    font-size: 100;
+    background-color: rgb(255, 242, 0);
+    padding-left: 2%;
+    padding-right: 2%;
+
+}
+.downloadButton{
+    width: 20;
+    height: 40;
+    background-color: aquamarine;
+}
+a{
+    display: block;
+    background: #0ed88e;
+    color: aliceblue;
+    padding: 15px;
+    cursor: pointer;
+    text-decoration: none;
+    width: 320px;
+    text-align: center;
+    border-radius: 20px;
+    font-size: 20;
+}
